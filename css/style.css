@@ -19,9 +19,12 @@
   filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
   -webkit-filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
   margin-top: 25px;
+  border-radius: 10%;
 }
 
 section,
 footer {
   padding: 20px 0;
 }
+
+
